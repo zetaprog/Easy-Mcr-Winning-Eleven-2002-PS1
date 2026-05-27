@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>EasyMcr - Información</title>
+  <style>
+    :root{
+      --bg:#0b0b0c;
+      --card:#0f1112;
+      --muted:#9aa4ad;
+      --accent:#7ee1a2;
+      --accent2:#7fb7ff;
+      --glass: rgba(255,255,255,0.03);
+      --radius:12px;
+      --mono: "Segoe UI Mono", "Courier New", monospace;
+      --ui: "Segoe UI", Roboto, Arial, sans-serif;
+    }
+
+    html,body{
+      height:100%;
+      margin:0;
+      background: linear-gradient(180deg, var(--bg), #050506 120%);
+      color:#e8eef2;
+      font-family:var(--ui);
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+    }
+
+    .wrap{
+      max-width:920px;
+      margin:36px auto;
+      padding:28px;
+      box-sizing:border-box;
+    }
+
+    header{
+      display:flex;
+      align-items:center;
+      gap:16px;
+      margin-bottom:20px;
+    }
+
+    .logo{
+      width:64px;
+      height:64px;
+      border-radius:12px;
+      background: linear-gradient(135deg,var(--accent),var(--accent2));
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      font-weight:700;
+      color:#041014;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.6);
+      flex:0 0 64px;
+    }
+
+    h1{
+      margin:0;
+      font-size:20px;
+      letter-spacing:0.2px;
+    }
+    p.lead{
+      margin:6px 0 0 0;
+      color:var(--muted);
+      font-size:13px;
+    }
+
+    .card{
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+      border-radius:var(--radius);
+      padding:18px;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+      margin-bottom:14px;
+      border:1px solid rgba(255,255,255,0.03);
+    }
+
+    h2{
+      margin:0 0 8px 0;
+      font-size:16px;
+    }
+
+    .muted{
+      color:var(--muted);
+      font-size:13px;
+      margin-bottom:10px;
+    }
+
+    ul{
+      margin:8px 0 12px 18px;
+      color:#dfe9ee;
+    }
+
+    li{
+      margin:6px 0;
+      line-height:1.45;
+    }
+
+    .versions{
+      display:grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap:12px;
+    }
+
+    .small{
+      font-size:13px;
+      color:var(--muted);
+    }
+
+    footer{
+      margin-top:18px;
+      display:flex;
+      gap:12px;
+      align-items:center;
+      flex-wrap:wrap;
+    }
+
+    a.btn{
+      display:inline-block;
+      background:transparent;
+      color:var(--accent2);
+      border:1px solid rgba(127,183,255,0.15);
+      padding:8px 12px;
+      border-radius:10px;
+      text-decoration:none;
+      font-size:13px;
+    }
+
+    .pay{
+      display:flex;
+      gap:8px;
+      align-items:center;
+      flex-wrap:wrap;
+    }
+
+    .mono{
+      font-family:var(--mono);
+      background: rgba(255,255,255,0.02);
+      padding:8px;
+      border-radius:8px;
+      display:inline-block;
+      font-size:13px;
+      color:#d9f9e3;
+    }
+
+    .note{
+      margin-top:10px;
+      color:var(--muted);
+      font-size:13px;
+    }
+
+    @media (max-width:520px){
+      .wrap{ padding:16px; }
+      h1{ font-size:18px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="logo">EM</div>
+      <div>
+        <h1>EasyMcr</h1>
+        <p class="lead">Herramienta para leer/editar MCR, conversiones y manejo de jugadores</p>
+      </div>
+    </header>
+
+    <section class="card">
+      <h2>EasyMcr v2</h2>
+      <p class="muted">Funcionalidad principal</p>
+      <ul>
+        <li>Reading and writing Mcr skills and attributes.</li>
+        <li>Reading and writing of Trainings.</li>
+        <li>Changing players by dragging with the mouse.</li>
+        <li>Creation of appearance database to avoid editing the appearance of the same players every time a mcr is created.</li>
+        <li>Added Transfermark.</li>
+        <li>Options to customize attribute conversion from FC25 to we2002.</li>
+      </ul>
+    </section>
+
+    <div class="versions">
+      <div class="card">
+        <h2>V.3 updated</h2>
+        <p class="small">Mejoras y añadidos</p>
+        <ul>
+          <li>Players and Formation in tabs.</li>
+          <li>Stats converted to PES6 then WE2002.</li>
+          <li>Faces database.</li>
+          <li>Added PSD button with support for Sofifa and FmInside.</li>
+          <li>Change players by dragging with the mouse.</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h2>Updated version 4</h2>
+        <p class="small">Nuevas funciones</p>
+        <ul>
+          <li>Interface improvements.</li>
+          <li>Added DB (Local Database).</li>
+          <li>Added Transfermarkt to search for players from FM or FC.</li>
+          <li>Added Efootball (PEsMaster) for conversion.</li>
+          <li>Removed the Formation button to integrate it into the MCR menu.</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h2>4.2</h2>
+        <p class="small">Correcciones y soporte</p>
+        <ul>
+          <li>Adds Fminside button.</li>
+          <li>Browser optimization.</li>
+          <li>Export JSON from the database.</li>
+          <li>Compatibility with FMiside's FM26 database.</li>
+          <li>Code script optimization.</li>
+	  <li>Fixed formation bugs.</li>
+        </ul>
+      </div>
+    </div>
+
+    <section class="card" style="margin-top:12px;">
+      <h2>Enlaces y actualizaciones</h2>
+      <p class="muted">updates and improvements</p>
+      <p>
+        <a class="btn" href="https://discord.gg/tN2G9w4dK3" target="_blank" rel="noopener">Discord (updates)</a>
+      </p>
+
+      <div style="margin-top:12px;">
+        <div class="mono">Zeta 2025</div>
+        <p class="note">We2002 its Life!!</p>
+
+        <div class="pay" style="margin-top:8px;">
+          <a class="btn" href="https://www.paypal.com/paypalme/PwPatch" target="_blank" rel="noopener">PayPal</a>
+          <a class="btn" href="https://ko-fi.com/zetapasionwe" target="_blank" rel="noopener">Ko-fi</a>
+          <a class="btn" href="https://www.patreon.com/PasionWeGenesis" target="_blank" rel="noopener">Patreon</a>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="small">© Zeta 2025 — EasyMcr</div>
+      <div class="small" style="margin-left:auto">Designed for WE2002 / FM conversion tools</div>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NQnUZ8r9/Kw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\fifatomcr.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CF\\.nuget\\packages\\microsoft.web.webview2\\1.0.3967.48\\microsoft.web.webview2.1.0.3967.48.nupkg.sha512",
+    "C:\\Users\\CF\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\CF\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\CF\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\CF\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512"
+  ],
+  "logs": []
+}

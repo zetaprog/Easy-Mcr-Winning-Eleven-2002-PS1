@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|c:\\users\\cf\\desktop\\proyectos vb we2002\\easymcr 1.5\\fifatomcr\\frmmcr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|solutionrelative:fifatomcr\\frmmcr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|c:\\users\\cf\\desktop\\proyectos vb we2002\\easymcr 1.5\\fifatomcr\\frmmcr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|solutionrelative:fifatomcr\\frmmcr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|c:\\users\\cf\\desktop\\proyectos vb we2002\\easymcr 1.5\\fifatomcr\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|solutionrelative:fifatomcr\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|c:\\users\\cf\\desktop\\proyectos vb we2002\\easymcr 1.5\\fifatomcr\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|solutionrelative:fifatomcr\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|c:\\users\\cf\\desktop\\proyectos vb we2002\\easymcr 1.5\\fifatomcr\\modulomcr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|solutionrelative:fifatomcr\\modulomcr.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|c:\\users\\cf\\desktop\\proyectos vb we2002\\easymcr 1.5\\fifatomcr\\options.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|solutionrelative:fifatomcr\\options.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|c:\\users\\cf\\desktop\\proyectos vb we2002\\easymcr 1.5\\fifatomcr\\stats1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9DBDF3E-8C50-474B-980E-466ACA070A24}|fifatomcr\\fifatomcr.vbproj|solutionrelative:fifatomcr\\stats1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Form1.vb",
+              "RelativeDocumentMoniker": "fifatomcr\\Form1.vb",
+              "ToolTip": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Form1.vb",
+              "RelativeToolTip": "fifatomcr\\Form1.vb",
+              "ViewState": "AgIAAKERAAAAAAAAAAAgwLARAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-30T03:16:24.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Form1.vb",
+              "RelativeDocumentMoniker": "fifatomcr\\Form1.vb",
+              "ToolTip": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "fifatomcr\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-10T09:01:33.795Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmmcr.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Frmmcr.vb",
+              "RelativeDocumentMoniker": "fifatomcr\\Frmmcr.vb",
+              "ToolTip": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Frmmcr.vb [Dise\u00F1o]",
+              "RelativeToolTip": "fifatomcr\\Frmmcr.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-26T04:52:58.8Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Options.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Options.vb",
+              "RelativeDocumentMoniker": "fifatomcr\\Options.vb",
+              "ToolTip": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Options.vb [Dise\u00F1o]",
+              "RelativeToolTip": "fifatomcr\\Options.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-01T07:51:04.264Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stats1.vb",
+              "DocumentMoniker": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\stats1.vb",
+              "RelativeDocumentMoniker": "fifatomcr\\stats1.vb",
+              "ToolTip": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\stats1.vb",
+              "RelativeToolTip": "fifatomcr\\stats1.vb",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAqwAUBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-06T20:20:48.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "modulomcr.vb",
+              "DocumentMoniker": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\modulomcr.vb",
+              "RelativeDocumentMoniker": "fifatomcr\\modulomcr.vb",
+              "ToolTip": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\modulomcr.vb",
+              "RelativeToolTip": "fifatomcr\\modulomcr.vb",
+              "ViewState": "AgIAACMBAAAAAAAAAAAAAAsBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-12T06:37:26.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frmmcr.vb",
+              "DocumentMoniker": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Frmmcr.vb",
+              "RelativeDocumentMoniker": "fifatomcr\\Frmmcr.vb",
+              "ToolTip": "C:\\Users\\CF\\Desktop\\Proyectos VB we2002\\EasyMCR 1.5\\fifatomcr\\Frmmcr.vb",
+              "RelativeToolTip": "fifatomcr\\Frmmcr.vb",
+              "ViewState": "AgIAAKoJAAAAAAAAAAAswLYJAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-12T08:28:01.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "fifatomcr", "fifatomcr\fifatomcr.vbproj", "{F9DBDF3E-8C50-474B-980E-466ACA070A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9DBDF3E-8C50-474B-980E-466ACA070A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DBDF3E-8C50-474B-980E-466ACA070A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DBDF3E-8C50-474B-980E-466ACA070A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DBDF3E-8C50-474B-980E-466ACA070A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0088F5-8A09-487B-86B4-6C3ABF780EB2}
+	EndGlobalSection
+EndGlobal
