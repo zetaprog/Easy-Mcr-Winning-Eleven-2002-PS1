@@ -67,6 +67,7 @@ This project was created to modernize the editing experience of Winning Eleven 2
 ## Download
 
 Downloads are available in the Releases section.
+https://github.com/zetaprog/Easy-Mcr-Winning-Eleven-2002-PS1/releases/tag/EasyMCR
 
 ## Author
 
